@@ -20,12 +20,20 @@ In this module the user can cancel their tickets.
 Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
-
-
-
-
-
-
-
+### UML DIAGRAMS:
+### usecase  diagram
+![alt text](<use passport.png>)
+### class diagram
+![alt text](<class passport.png>)
+### sequence diagram
+![alt text](<seq passport.png>)
+### statechart diagram
+![alt text](<state passport.png>)
+### activity diagram
+![alt text](<activiy passport.png>)
+### communication diagram
+![alt text](<communication passport.png>)
+### package diagram
+![alt text](<package passport.png>)
 ### RESULT:
 Thus the Passport Registration system project was executed and the output was verified.
